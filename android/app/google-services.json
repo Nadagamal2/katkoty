@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364525997668",
+    "project_id": "katkoty-63150",
+    "storage_bucket": "katkoty-63150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364525997668:android:3388125cad840b73a9d971",
+        "android_client_info": {
+          "package_name": "com.katkoty.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364525997668-ug20q3dhv2u6gao05svalr2qcqv8alfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEJdX-GK4vLnElF5TWQAQccejZiBYQ9lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364525997668-ug20q3dhv2u6gao05svalr2qcqv8alfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364525997668-9g0fr6bv5mi9j3ijmv2kmk7idsrukk6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.katkoty"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1264835814900584~5615265432"
+    }
+  ],
+  "configuration_version": "1"
+}
